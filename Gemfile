@@ -14,7 +14,7 @@ gem 'uglifier'
 
 gem 'jquery-rails'
 
-gem 'therubyracer'
+gem 'therubyracer-heroku'
 
 gem 'rake', '0.8.7'
 
