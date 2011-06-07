@@ -18,6 +18,8 @@ gem 'therubyracer-heroku'
 
 gem 'rake', '0.8.7'
 
+gem 'pg'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
